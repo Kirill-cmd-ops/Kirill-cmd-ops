@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="developer" width="1200" height="800" style="border-radius:300px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhoa3dmc3RyZXpiYjNwaGdrenpyZzBqaGlzanNyZTRmcXVmcmxneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
+  <img align="center" alt="developer" width="1000" height="650" style="border-radius:300px;" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </div>
 
 <h1>Welcome!</h1> <p>I am <strong>Bondarenko Kirill</strong>, a Python Backend Developer.</p> <p> My main specialization is developing APIs for web applications using best practices and modern tools. I strive for continuous growth and for creating solutions that make products reliable and user‑friendly. </p> <h2>Technologies</h2>
